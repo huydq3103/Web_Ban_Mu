@@ -1,0 +1,2 @@
++UUID : dùng để tránh trung lặp dữ liệu khi backup
+-UUID : sẽ tạo mã theo thời gian cụ thể
